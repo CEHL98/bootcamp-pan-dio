@@ -1,0 +1,6 @@
+* git clone endereço da pasta
+* cd e o endereço do repositorio 
+* git status
+* git add .
+* git commit -m "mensagem"
+* git push origin brash
